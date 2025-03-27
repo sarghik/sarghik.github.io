@@ -1,5 +1,6 @@
 ### Education
 University of California Irvine
+
 Bachelor of Science in Aerospace Engineering
 
 ###
