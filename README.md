@@ -11,7 +11,7 @@ Bachelor of Science in Aerospace Engineering
 
 Objective: 
 
-The goal of this project is to design and build a fully functional, lightweight quadcopter using 3D printing and CAD modeling. At the same time, this project serves as a platform to enhance my skills in SolidWorks, 3D printing, and fabrication skills. This project reflects my interest in vertical flight technology, which I hope to further develop through future projects.
+The goal of this project is to design and build a fully functional, lightweight quadcopter using 3D printing and CAD modeling. At the same time, this project serves as a platform to enhance my skills in SolidWorks, 3D printing, and fabrication. This project reflects my interest in vertical flight technology, which I hope to further develop in the future.
 
 
 
