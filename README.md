@@ -8,7 +8,8 @@ Bachelor of Science in Aerospace Engineering
 ### Projects
 3D Printed Drone
 
-Objective: To develop a 3D printed lightweight quadcopter.
+Objective: 
+To develop a 3D printed lightweight quadcopter.
 
 
 
