@@ -31,5 +31,8 @@ Currently continuing to 3D print designs and preparing to mount the electronics.
 Results:
 
 ![Solidworks Model](DRONEASSEM.JPG)
+![Solidworks Model](DRONEASSEM.SLDASM3.JPG)
+![Solidworks Model](DRONEBASE.JPG)
+![Solidworks Model](droneleg.JPG)
 
 
