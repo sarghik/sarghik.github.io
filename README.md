@@ -27,9 +27,13 @@ Process:
 
 
 Technical Challenges and Solutions:
-- Considering that I am just beginning the building aspect of the project, most of the obstacles I encountered relate to SolidWorks and simply determining how to initiate the project. In SolidWorks, I learned how to use new features such as the center circle line.
+- Considering that I am just beginning the building aspect of the project, most of the obstacles I encountered relate to SolidWorks and simply determining how to initiate the project. In SolidWorks, I learned how to use new features such as the circular sketch pattern which helps create copies of and mirror a sketch entity.
 
 
+Skills:
+- SolidWorks
+- 3D Printing
+- Iterative Design
 
 
 SolidWorks Progress:
