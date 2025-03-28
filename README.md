@@ -33,4 +33,4 @@ SolidWorks Progress:
 ![Solidworks Model](DRONEBASE.JPG)
 ![Solidworks Model](droneleg.JPG)
 
-
+For this project, I purchased parts such as a flight controller, motors, propellers, and a battery to power everything. Looking at the design aspect, I created a simple prototype of my drone. I am currently working on printing a functional prototype and working to enhancing the CAD with specific measurements for the holes needed to mount the electronics properly. 
