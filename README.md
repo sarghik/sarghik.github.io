@@ -26,7 +26,7 @@ Process:
 
 
 
-### Solidworks Progress:
+Solidworks Progress:
 
 ![Solidworks Model](DRONEASSEM.JPG)
 ![Solidworks Model](DRONEASSEM.SLDASM3.JPG)
