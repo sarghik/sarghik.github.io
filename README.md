@@ -30,6 +30,6 @@ Currently continuing to 3D print designs and preparing to mount the electronics.
 
 Results:
 
-![Solidworks Model](/assets/img/C:\Users\kirat\Documents\DRONEASSEM.SLDASM3.JPG.jpeg)
+![Solidworks Model](/assets/img/C:\Users\kirat\Documents\DRONEASSEM.SLDASM3.JPG)
 
 
