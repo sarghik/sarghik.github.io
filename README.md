@@ -27,7 +27,7 @@ Design Process:
 
 
 Technical Challenges and Solutions:
-- Considering that I am just beginning the building aspect of the project, most of the obstacles I encountered relate to SolidWorks and simply determining how to initiate the project. In SolidWorks, I learned how to use new features such as the circular sketch pattern which helped create copies of and mirrored sketch entities.
+- Considering that I am just beginning the building aspect of the project, most of the obstacles I encountered so far relate to SolidWorks and simply determining how to initiate the project. At first, I was unsure of how to begin this entire project but I focused on one step at a time and gradually made progress. I began with researching different drones, the parts within them, and the importance of quality to help me in my purchasing decisions. Eventually I drew designs of what I wanted my drone to look like and went to SolidWorks from there. In SolidWorks, I learned how to use new features such as the circular sketch pattern which helped create copies of and mirrored sketch entities.
 
 
 Skills:
