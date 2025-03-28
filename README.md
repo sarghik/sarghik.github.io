@@ -9,7 +9,10 @@ Bachelor of Science in Aerospace Engineering
 3D Printed Drone
 
 Objective: 
+
 To develop a 3D printed lightweight quadcopter.
+
+
 
 
 Process:
@@ -23,7 +26,9 @@ Gained hands-on experience in 3D printing, refining design for efficient fabrica
 Currently continuing to 3D print designs and preparing to mount the electronics.
 
 
-Results:
 
+
+Results:
+[Solidworks Model] "C:\Users\kirat\Documents\DRONEASSEM.SLDASM3.JPG"
 
 
