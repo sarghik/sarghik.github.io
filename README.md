@@ -30,6 +30,6 @@ Currently continuing to 3D print designs and preparing to mount the electronics.
 
 Results:
 
-![Solidworks Model](/assets/img/DRONEASSEM.JPG)
+![Solidworks Model](DRONEASSEM.JPG)
 
 
