@@ -6,7 +6,8 @@ Bachelor of Science in Aerospace Engineering
 
 
 ### Projects
-1. 3D Printed Drone
+
+3D PRINTED DRONE
 
 Objective: 
 
