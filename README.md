@@ -16,7 +16,7 @@ The goal of this project is to design and build a fully functional, lightweight 
 
 
 
-Process:
+Design Process:
 
 - Researched drone models and compared x-frames to h-frames to select the optimal structure for a lightweight, 3D-printed quadcopter.
 - Utilized SolidWorks to design and model a custom drone X-frame, applying engineering principles to ensure durability and performance.
@@ -27,7 +27,7 @@ Process:
 
 
 Technical Challenges and Solutions:
-- Considering that I am just beginning the building aspect of the project, most of the obstacles I encountered relate to SolidWorks and simply determining how to initiate the project. In SolidWorks, I learned how to use new features such as the circular sketch pattern which helps create copies of and mirror a sketch entity.
+- Considering that I am just beginning the building aspect of the project, most of the obstacles I encountered relate to SolidWorks and simply determining how to initiate the project. In SolidWorks, I learned how to use new features such as the circular sketch pattern which helped create copies of and mirrored sketch entities.
 
 
 Skills:
