@@ -48,7 +48,7 @@ SolidWorks Progress:
 
 
 
-ROCKET CAD
+ROCKET CAD (Very Simplified)
 
 
 Combustion Chamber and Nozzle
