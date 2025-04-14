@@ -48,6 +48,9 @@ SolidWorks Progress:
 
 
 Rocket CAD
+Combustion Chamber and Nozzle
 ![Solidworks Model](nozzlecombustionside.JPG)
 ![Solidworks Model](nozzlecombustion.JPG)
+
+Injector Plate
 ![Solidworks Model](injectorplate.JPG)
