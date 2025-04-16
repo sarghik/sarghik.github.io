@@ -59,3 +59,8 @@ Combustion Chamber and Nozzle
 
 Injector Plate
 ![Solidworks Model](injectorplate.JPG)
+
+
+Full Rocket
+![Solidworks Model](prettyrocket.JPG)
+![Solidworks Model](prettyrocketside.JPG)
