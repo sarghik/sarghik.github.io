@@ -62,5 +62,5 @@ Injector Plate
 
 
 Full Rocket
-![Solidworks Model](prettyrocket.JPG)
-![Solidworks Model](prettyrocketside.JPG)
+![Solidworks Model](prettyyrocket.JPG)
+![Solidworks Model](prettyyrocketside.JPG)
